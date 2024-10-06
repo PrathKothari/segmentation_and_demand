@@ -25,7 +25,3 @@ This project addresses two key aspects of retail analytics: **Customer Segmentat
 
 ## Conclusion
 The project provides actionable insights into customer segmentation and sales forecasting, helping optimize pricing strategies and inventory management through data-driven predictions.
-
----
-
-This version delivers the necessary information for a GitHub README without overwhelming detail, fitting well for a concise project overview.
